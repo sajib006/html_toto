@@ -1,0 +1,19 @@
+.p1{
+	border-width: 5px;
+	border-style: solid;
+	border-color: red;
+	border-radius: 5px;
+}
+#p2{
+	border: 5px dotted green;
+}
+.sajib{
+	width: 500px;
+	height: 500px;
+	background: yellow;
+	border: 5px solid red;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 50px;
+}

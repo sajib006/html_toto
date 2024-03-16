@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+	font-family: sans-serif;
+}
+a,p,li,button{
+	text-decoration: none;
+	color: white;
+}
+header{
+	background-color: red;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo{
+	font-weight: 500;
+	font-size: 35px;
+	background-color: red;
+	letter-spacing: 0.2em;
+	margin: 20px;
+}
+.nevbar1 li{
+	list-style: none;
+	display: inline-block;
+	border: red;
+}
+.nevbar1,li,a{
+	margin: 10px;
+	background-color: red;
+}

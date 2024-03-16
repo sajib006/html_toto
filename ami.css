@@ -1,0 +1,52 @@
+body{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	background-color: #add;
+}
+header {
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 5%;
+	display:flex;
+	background-color: navy;
+}
+a,button{
+	font-family: sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	list-style: none;
+}  
+.logo{
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	justify-content: safe start;
+}
+button{
+	background-color: yellowgreen;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+.nevber a :hover{
+	background-color: red;
+	transition: all ease-in 0.5s;
+
+}
+.log{
+	font-weight: bold;
+}
+.log1{
+	font-weight: bold;
+}
+.log :hover{
+	color: red;
+}
+.btn :hover{
+	background-color: red;
+	transition: 0.5s;
+}
+

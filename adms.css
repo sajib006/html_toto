@@ -1,0 +1,15 @@
+.admn{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 28px;
+	margin: 10%;
+}
+.admn1{
+	margin-top: 20px;
+	display: flex;
+	text-align: left;
+}
+.admn1 p{
+	text-align: left;
+	padding: 15px;
+}

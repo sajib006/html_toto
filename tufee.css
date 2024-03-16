@@ -1,0 +1,11 @@
+.admn{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 28px;
+	background-color: yellow;
+}
+.admn1{
+	margin-top: 20px;
+	display: flex;
+	text-align: left;
+}

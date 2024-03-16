@@ -1,0 +1,484 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	font-family: sans-serif;
+}
+.checkbtn{
+	font-size: 0px;
+	color: white;
+	float: right;
+	cursor: pointer;
+	display: none;
+}
+.chk{
+	display: none;
+}
+.logo1{
+margin: 15px;
+margin-left: 60px;
+color: white;
+tab-size: 17px;
+letter-spacing: 2px;
+word-spacing: 4px;
+}
+
+a,p,li,button{
+	text-decoration: none;
+	color: white;
+	font-size: 17px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.btn{
+	padding: 5px;
+}
+
+header{
+	width: 100%;
+	background-color: #18453B;
+	display: flex;
+	align-items: center;
+}
+.nevbar1 li{
+	list-style: none;
+    display: inline-block;
+    margin-bottom: 2px;
+
+}
+.nevbar1 li a{
+	transition: 0.5s;
+}
+.nevbar1 li a:hover{
+	color: red;
+}
+button{
+	border: none;
+		background-color: #18453B;
+
+	padding: 10px 15px;
+	border-radius: 1px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: green;
+}
+.checkbtn{
+	width: 70px;
+	background-color: white;
+	color: white;
+	float: right;
+}
+
+main{
+	width: 100%;
+	
+}
+button clip{
+	flex-shrink: amvifrom.html;
+}
+.div1{
+	background-color: red;
+}
+
+
+}
+.from{
+	background-color: white;
+	width: 300px;
+	height: 300px;
+	margin: 1%;
+}
+.aca{
+	position: absolute;
+	display: block;
+	width: 200px;
+	padding: 10px;
+	background-color: green;
+	display: none;
+	margin-left: -30px;
+}
+.aca li{
+	margin: 5px;
+}
+
+.nevbar1 li:hover > ul{
+	display: block;
+}
+.aca li a:hover{
+      color: yellowgreen;
+
+}
+#aca1{
+	width: 500px;
+	margin: 0px;
+	text-align: left;
+	font-size: 15px;
+	line-height: 33px;
+	text-transform: capitalize;
+}
+#aca1 li a{
+	text-transform: none;
+}
+#aca2{
+	width: 250px;
+	margin-left: 0px;
+	text-align: left;
+	font-size: 17;
+	line-height: 34px;
+	text-transform: capitalize;
+}
+#aca2 li a{
+	text-transform: none;
+}
+#aca3 {
+	margin-left: 0px;
+	margin-top: 0px;
+	background-color: green;
+	text-align: left;
+}
+
+.pc {
+	height: 700px;
+	width: 100%;
+	background-color: white;
+	
+}
+.apply{
+	
+	margin-top: 40Px;
+	margin-left: 20px;
+	width: 65%;
+	background-color: white;
+	}
+.apply a{
+	font-family: "PT Sans Narrw","Helvetica Neue",Arial,Helvetica,sans-serif;
+	font-size: 45px;
+	font-weight: 550;
+	line-height: 50px;
+	text-decoration: none solid rgb(185,45,40);
+	text-align: left;
+	word-spacing: 0px;
+	background-color: white;
+	color: #B92D28;
+}
+.pc h1{
+	padding: 5px 50px;
+	text-align: center;
+}
+.boxf{
+	background-color: white;
+	height: 400px;
+	width: 100%;
+	margin: 0px;
+	display: flex;
+	position: relative;
+
+}
+.boxf1{
+
+	height: 350px;
+	width: 65%;
+	border: 5px;
+	border-color:black;
+	background-color: white;
+	display: flex;
+	padding: 0px;
+	position: relative;
+	margin-top: 0px;
+
+}
+.boxf2{
+	width: 33.3%;
+	height: 300px;
+	border:;
+	padding: 10px;
+	background-color: white;
+	margin: 10px;
+	display: block;
+	position: relative;
+	float: left;
+
+
+}
+.box2 img1{
+	width: 30px;
+}
+.boxff1{
+	height: 600px;
+	width: 35%;
+	background-color: white;
+	margin-top: -200px;
+	margin-right: 25px;
+	
+}
+.n1{
+	width: 90%;
+	height: 40px;
+	border: 2px solid black;
+	padding: 10px;
+	background-color: white;
+	margin: 10px;
+
+	display: flex;
+	position: relative;
+	float: left;
+
+}
+.n2{
+	width: 90%;
+	height: 100px;
+	padding: 0px;
+	background-color: #F3F1EE;
+	margin: 20px;
+	margin-top: 5px;
+	display: block;
+	position: relative;
+	float: left;
+	text-align: center;
+}
+.box{
+	display: flex;
+	background-color: #FDFCFB;
+	padding:5PX 50PX;
+	font-size: 14.4PX;
+	font-weight: 700;
+
+}
+.t{
+	display: flex;
+	width: 100%;
+	height: auto;
+
+}
+
+
+.box1{
+	width: 50%;
+	height: 250px;
+	color: white;
+	background-color: #FDFCFB;
+	margin: 10PX;
+	color: black;
+	overflow: hidden;
+	text-align: left;
+}
+.box1 p{
+	color: black;
+}
+.p1{
+	padding: 8px;
+	height: 40%;
+	font-size: 16px;
+    font-family:Lato,sans-serif;
+    font-weight: normal;
+	line-height: 20px;
+	outline-width: 500px;
+}
+.ev{
+	background-color: white;
+	padding: 50px 50px;
+	text-align: center;
+}
+.box2{
+	width: 33.3%;
+	height: 300px;
+	border: 2px solid black;
+	padding: 10px;
+	background-color: #E0FFFF;
+	margin: 10px;
+
+}
+.box2 p{
+	color: black;
+}
+
+.x{
+	background-image: url(fc1.jpg);
+		
+	width: 33.3%;
+	padding: -10px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 700;
+
+}
+
+.name h2{
+	font-size: 35px;
+	font-family: sans-serif;
+}
+.text p{
+	margin: 40px 27%;
+	padding: 20px;
+
+}
+.icon i{
+	font-size: 50px;
+	
+}
+.copy{
+	font-size: 30px;
+	font-weight: bold;
+	background-color: black;
+}
+
+.fter{
+	height: auto;
+	width: 100%;
+	background-color: #18453B;
+	color: white;
+	display: flex;
+}
+.fter1{
+	height: auto;
+	width: 33.3%;
+	border-right: 2px solid white;
+	background-color: #18453B;
+	text-align: left;
+	margin-left: 50px;
+}
+.fter1 p{
+	text-align: left;
+}
+
+.logo2{
+	height: 80px;
+	width: 80px;
+	margin-top: 50px;
+	text-align: center;
+
+}
+@media(max-width:1100px){
+	.boxf{
+		display: block;
+		height: auto;
+
+	}
+	.boxf1{
+		width: 100%;
+
+	}
+	.apply{
+		width: 100%;
+		padding: 10px;
+	}
+	.boxff1{
+		width: 70%;
+		text-align: center;
+		margin-top: 0px;
+		margin-left: 15%;
+
+	}
+}
+
+@media(max-width:800px){
+	
+	.box{
+		text-align: center;
+		height: auto;
+		width: 100%;
+		display: block;
+		align-items: center;
+		display: flex;
+
+	}
+	.t{
+		display: block;
+
+	}
+	.box1{
+		width: 80%;
+		margin-left: -12px;
+		margin-bottom: 50px;
+	}
+	.ev{
+		margin: -20px;
+	}
+	.fter{
+		display: block;
+	}
+	.fter1{
+		width: 100%;
+			border-bottom: 2px solid white;
+			margin: 0px;
+			text-align: center;
+
+
+	}
+	.fter1 p{
+		text-align: center;
+	}
+}
+@media(max-width:1200px){
+	.nevbar1{
+		position: absolute;
+		width: 25%;
+		height: 50vh;
+		background: green;
+		top: 20%;
+		text-align: left;
+		margin-left: -200px;
+		padding: 30px;
+		transition: all.5s;
+		display: none;
+
+	}
+	.chk{
+		display: inline-block;
+	}
+	.chk:hover nevbar1{
+		display: inline-block;
+
+	}
+	.nevbar1 li{
+		display: block;
+		color: green;
+		margin: 20px;
+		text-align: left;
+	}
+	.checkbtn{
+		display: inline-block;
+
+	}
+		a,p,li,button{
+		background-color: green;
+	}
+
+	.btn button{
+		background-color:#18453B;
+
+	}
+	button:hover{
+	background-color: #18453B;
+}
+.btn button:hover{
+	background-color: green;
+}
+.checkbtn:hover{
+	display: inline-block;
+}
+
+#aca1{
+	margin-left: -500px;
+	padding: 0px;
+
+}
+#aca1 li{
+	margin: 0px;
+	padding: -30px;
+	color: white;
+	font-size: 16px;
+}
+#aca2 li{
+	margin: 0px;
+	padding: -30px;
+	color: white;
+	font-size: 16px;
+}
+
+.fter1 p{
+	background-color: #18453B;
+}
+}

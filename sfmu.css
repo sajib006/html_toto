@@ -1,0 +1,50 @@
+body{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	background-color: #ddd;
+}
+/*Header Strat*/
+header{
+	width: 100%;
+	background-color: black;
+	color: white;
+	display: flex;
+}
+
+.nevbar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 400px;
+}
+.nevbar ul{
+	list-style: none;
+}
+.nevbar ul li{
+	background-color: #262626;
+	width: 170px;
+	border: 1px solid white;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	float: left;
+	color: white;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.nevbar ul li a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+}
+.nevbar ul ul{
+	display: none;
+}
+
+.nevbar ul li:hover > ul{
+	display: block;
+}
